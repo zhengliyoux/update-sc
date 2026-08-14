@@ -1,1 +1,1 @@
-console.log('Coming Soon For Update Script'
+console.log('Coming Soon For Update Script')
